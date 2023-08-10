@@ -6,7 +6,7 @@ export default function Home() {
     <section className="w-full flex-center flex-col">
       <h1 className="head_text text-center">Discover and share</h1>
       <br className="max-md:hidden" />
-      <span className="orange_gradient text-center">
+      <span className="head_text blue_gradient text-center">
         Prompts for The gipiti
       </span>
       <p className="desc text-center">View and share your best prompts</p>
